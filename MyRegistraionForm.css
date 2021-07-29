@@ -1,0 +1,80 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/da/a0/d7/daa0d79ac14d65f295fd2e9fac3b2b3d.jpg");
+    background-size: cover;
+    color: white;
+    font-size:37px;
+    background-attachment: fixed;
+}
+.main{
+    height:750px;
+    width:99%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    /* height:750px; */
+    width:600px;
+    border:5px solid pink;
+    margin: auto;
+    display: flex;
+   padding: 20px;
+    background-color: rgba(97, 17, 57, 0.6);;
+}
+.input{
+    margin-left: 100px;
+    margin-bottom:30px ;
+    font-size:25px;
+    width:240px;
+    height:33px;
+}
+.radio{
+    margin-left: 155px;
+    margin-bottom:30px;
+    width:20px;
+    height:20px;
+}
+.radio_input{
+    font-size:30px;
+}
+.radio1{
+    margin-left: 15px;
+}
+.add_label{
+    float:left;
+}
+.add_input{
+    margin-left:160px;
+}
+#lname{
+    margin-left: 105px;
+}
+#email{
+    margin-left: 130px;
+}
+#dob{
+    margin-left: 75px;
+}
+#city{
+    margin-left: 209px;
+}
+#pin{
+    margin-left: 128px;
+}
+#qualification{
+    margin-left: 82px;
+}
+#course{
+    margin-left: 85px;
+}
+.personal{
+    width:20px;
+    height:20px;
+}
+.others{
+    height:23px;
+}
+#button{
+    width:100px;
+    height:35px;
+}
